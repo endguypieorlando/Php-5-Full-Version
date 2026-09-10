@@ -238,3 +238,6 @@ This repository serves as the official landing page for PHP 5. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PHP 5 today!**
+
+---
+**Last updated:** 2026-09-10 00:46:46 UTC
