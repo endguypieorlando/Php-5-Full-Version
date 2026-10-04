@@ -240,4 +240,4 @@ This repository serves as the official landing page for PHP 5. The software is d
 **Get the most recent version of PHP 5 today!**
 
 ---
-**Last updated:** 2026-10-04 18:58:46 UTC
+**Last updated:** 2026-10-04 22:15:55 UTC
